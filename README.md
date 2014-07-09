@@ -8,4 +8,5 @@
   * `git pull`
   * `git log`
   * `git push`
-
+  * out-of-sync
+  * push-pull coparison
