@@ -1,4 +1,7 @@
-rgdeen.github.io
-================
+# GitHub School Website repo for rgdeen
 
-GitHub training class repo
+## Objectives
+
+* Show commits history
+* Interact with remotes
+* Show sync processes
